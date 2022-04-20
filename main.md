@@ -49,7 +49,7 @@
 
 <div class="OtherSocialLinks" style="font-size: 19px">
     <h1><strong>Find me around somewhere</strong></h1>
-    <img src="icons\globe.svg" width="200px" align="right" >
+    <img src="icons\globe.svg" width="100px" align="right" >
     <ul> <br />
         <li><strong>Learning with the web on <a href="https://twitch.tv/thomasleeray">Twitch </a> and <a href="https://www.youtube.com/channel/UCxTR7TEXKE7efdLcGv3BwSw">Youtube</a></strong></li>
     </ul>
