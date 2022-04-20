@@ -52,8 +52,6 @@
     <img src="icons\globe.svg" width="200px" align="right" >
     <ul> <br />
         <li><strong>Learning with the web on <a href="https://twitch.tv/thomasleeray">Twitch </a> and <a href="https://www.youtube.com/channel/UCxTR7TEXKE7efdLcGv3BwSw">Youtube</a></strong></li>
-        <li"><strong>On <a href="">discord</a> way too much, WAY WAY TOO MUCH.</strong></li>
-        <li><strong>Buy me a cup of good ol' <a href="">coffee</a> :coffee:</strong></li>
     </ul>
     
 </div>
