@@ -63,7 +63,7 @@
     <h1><strong>Icons Used</strong></h1>
     <ul>
     <li><strong> Social Icons are from <a href="https://simpleicons.org/">SimpleIcons</a></strong></li>
-    <li><strong>Earth Icon is from <a href="icons.getbootstrap.com">BootStrap</a></strong></li>
+    <li><strong>Earth Icon is from <a href="https://icons.getbootstrap.com">BootStrap</a></strong></li>
     </ul>
 
 </div>
