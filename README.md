@@ -41,9 +41,6 @@
     <h3>I'm a freelance software developer, computer Science tutor, and UI/UX nerd. You can always catch me tinkering with some sort of code, whether that be my own personal projects, open-source projects, or tutoring over languages, debugging and polishing techniques, or really anything technology related. </h3>
     <br />
     <br />
-    <br />
-    <br />
-    <br />
 </div>
 
 
